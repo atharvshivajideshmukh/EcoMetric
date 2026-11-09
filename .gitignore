@@ -1,0 +1,30 @@
+# Power BI temporary and backup files
+*.tmp
+*.bak
+*.pbit
+
+# Temporary and log files
+*.log
+*.temp
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+venv/
+
+# IDE settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Exclude duplicate Excel dataset
+/data/owid-co2-data.csv.xlsx

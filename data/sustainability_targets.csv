@@ -1,0 +1,13 @@
+Year,Location,Scope1_Target_kgCO2e,Scope2_Target_kgCO2e,Renewable_Energy_Target_pct,Water_Reduction_Target_pct,Waste_Recycling_Target_pct,Data_Type
+2023,Pune,95504,1014547,26.4,4.8,55.6,Simulated
+2023,Mumbai,105057,854497,25.7,4.6,56.7,Simulated
+2023,Bengaluru,92410,975527,25.9,4.6,53.9,Simulated
+2023,Hyderabad,111200,658742,26.9,5.7,54.7,Simulated
+2024,Pune,96719,965073,36.2,10.5,63.4,Simulated
+2024,Mumbai,117944,864342,38.4,10.3,61.2,Simulated
+2024,Bengaluru,126334,871879,38.6,9.1,62.1,Simulated
+2024,Hyderabad,129597,882490,38.3,9.8,64.1,Simulated
+2025,Pune,109747,618861,47.1,14.9,70.8,Simulated
+2025,Mumbai,88835,704867,50.8,15.5,71.2,Simulated
+2025,Bengaluru,78205,773858,49.8,14.7,72.8,Simulated
+2025,Hyderabad,131187,723647,50.1,14.8,70.2,Simulated
